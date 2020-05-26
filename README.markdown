@@ -1,5 +1,14 @@
 # TicTacToe
+Advanced TicTacToe game, which is unbeatable and relies on a game theory algorithm called 'minimax'
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/vaibhavxlr/pen/XWmQPmj](https://codepen.io/vaibhavxlr/pen/XWmQPmj).
+You can read further about it on -
+https://en.wikipedia.org/wiki/Minimax
 
+# Tech used 
+HTML
+CSS
+JAVASCRIPT
+
+
+# A Pen created on CodePen.io. 
 
